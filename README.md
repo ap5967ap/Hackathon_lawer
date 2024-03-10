@@ -110,11 +110,6 @@ Start the server
 [Demo](https://youtu.be/Iu5GIfkOLMs?si=xiwif1naWxklL4bu)
 
 
-## Documentation
-
-[Documentation](https://varnit-mittal.github.io/Lawer-docs/)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at varnit03mittal@gmail.com
