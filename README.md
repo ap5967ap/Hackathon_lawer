@@ -120,7 +120,7 @@ If you have any feedback, please reach out to us at varnit03mittal@gmail.com
 - [@varnit-mittal](https://github.com/varnit-mittal)
 - [@ap5967ap](https://github.com/ap5967ap)
 - [@aryamanpathak2022](https://github.com/aryamanpathak2022)
-- [@SiddharthVikram069](https://github.com/SiddharthVikram069)
+
 
 
 ## License
